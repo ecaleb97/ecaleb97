@@ -18,10 +18,14 @@ every day.
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
 <br />
 
 #
 
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecaleb97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <samp>
+    <a href="https://ecaleb.dev">website</a> •
+    <a href="https://www.linkedin.com/in/caleb-villanueva-zamalloa/">linkedin</a>
+  </samp>
+</div>
