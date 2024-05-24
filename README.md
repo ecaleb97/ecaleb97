@@ -2,7 +2,7 @@
 
 **`Developer / Traveller`**
 
-I'm an indie full-stack developer. And here, I share I've been working on recently and things I learned along the way.
+I'm an indie full-stack developer and private math tutor. And here, I share I've been working on recently and things I learned along the way.
 Besides software, another of my passions are maths, reading and traveller. I love teaching and learning new things
 every day.
 
