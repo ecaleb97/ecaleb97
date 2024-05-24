@@ -30,7 +30,7 @@ every day.
                      
 <br />
 
-<div align="center">
+<div align="center" style="margin-top:10px;">
   <samp>
     <a href="https://ecaleb.dev">website</a> •
     <a href="https://www.linkedin.com/in/caleb-villanueva-zamalloa/">linkedin</a>
